@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+
+#inputdata{
+
+    width: 85%;
+    padding: 10px;
+    /* border-radius: 17px; */
+    border: none;
+    outline: none;
+    font-weight: bold;
+    background-color: white;
+    border-bottom: 2px solid black;
+    forced-color-adjust: none;
+
+}
+
+#btnn{
+    background-color: white;
+    border: none;
+    padding: 11px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 3px;
+    outline: none;
+
+}
+
+
+.cn{
+    margin: 3px;
+    color: white;
+    
+
+}
+
+
+
+.search{
+    text-align: center;
+}
